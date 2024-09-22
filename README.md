@@ -1,6 +1,3 @@
-Here’s a comprehensive README for your entire travel blog website project:
-
----
 
 # Travel Blog Website
 
@@ -37,4 +34,16 @@ The website is fully responsive, adapting seamlessly to different screen sizes, 
 
 ## Note
 All names and images used in this project are not owned by us and are used solely for learning purposes.
+
+
+![Screenshot 2024-09-22 165303](https://github.com/user-attachments/assets/4cc82529-aedf-4a4c-8f57-b7d1ebea7930)
+![Screenshot 2024-09-22 165253](https://github.com/user-attachments/assets/c861ec10-458b-4cb7-bda5-59d1c5bd3704)
+![Screenshot 2024-09-22 165232](https://github.com/user-attachments/assets/b1b19f2a-1a23-4d42-9af8-00c0c215a38f)
+![Screenshot 2024-09-22 165209](https://github.com/user-attachments/assets/57c02634-50ca-491b-8a87-a411541fa58b)
+![Screenshot 2024-09-22 165151](https://github.com/user-attachments/assets/ece9d318-f1e6-4ed4-8403-cc125dddf735)
+![Screenshot 2024-09-22 165137](https://github.com/user-attachments/assets/d536354c-2907-4fb1-987a-3e7849ca26a7)
+![Screenshot 2024-09-22 165122](https://github.com/user-attachments/assets/0651f359-e529-4c5b-a431-6f5fc22a8bd3)
+![Screenshot 2024-09-22 165059](https://github.com/user-attachments/assets/a80ed59e-c315-43ed-aef7-9d5744c91e33)
+![Screenshot 2024-09-22 165039](https://github.com/user-attachments/assets/e114f76a-91c6-4266-b085-515008e4c07e)
+![Screenshot 2024-09-22 165324](https://github.com/user-attachments/assets/d69afc1a-9c1f-4d96-87d0-a60826116833)
 
